@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import { MdPlayArrow } from "react-icons/md"
-import Loader from '../loading_gif.gif'
+import Loader from '../../public/loading_gif.gif'
 
 
 const Testing = () => {
